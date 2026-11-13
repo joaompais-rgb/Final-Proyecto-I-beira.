@@ -134,5 +134,4 @@ Los proveedores sin NIF público llevan un código (SN1, SN2...) en lugar de su 
 
 8 minutos, con demostración en directo de la historia de Tableau y de la app.
 
-- [Diapositivas de la presentación](https://claude.ai/artifact/GiBVm4BzcSUer8J5K1koGd)
 - Copia en PDF: [`presentacion/beira_en_datos_presentacion.pdf`](presentacion/beira_en_datos_presentacion.pdf)
