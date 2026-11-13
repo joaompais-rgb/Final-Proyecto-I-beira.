@@ -1,0 +1,7 @@
+# Colores de la marca beira. para la app de Streamlit
+[theme]
+primaryColor = "#96422C"
+backgroundColor = "#F5F1E8"
+secondaryBackgroundColor = "#EBE5D6"
+textColor = "#2B2B16"
+font = "serif"
